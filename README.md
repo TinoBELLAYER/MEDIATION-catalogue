@@ -14,7 +14,7 @@ More information about the Océan et Climat program is available [here](https://
 
 ## What is available
 
-The tools, simulations and observations are either available by direct download on this repository, or by a hyperlink / access path. You can click [here](link to add here) to see a detailed list of the data that are available so far. 
+The tools, simulations and observations are either available by direct download on this repository, or by a hyperlink / access path. You can see [here](link to add here) a detailed list of the data that are available so far. 
 
 
 
