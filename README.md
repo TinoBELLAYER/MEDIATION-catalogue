@@ -15,7 +15,7 @@ The MEDIATION project focuses on developing innovative tools and raise knowledge
 
 ## What is available
 
-The tools, simulations and observations are either available by direct download on this repository, or by a hyperlink / access path. You can see [here](link to add here) a detailed list of the data that are available so far. 
+The [tools](MEDIATION-tools/), [simulations](MEDIATION-simulations/) and [observations](MEDIATION-observations/) are either available by direct download on this repository, or by a hyperlink / access path. You can see [here](link to add here) a detailed list of the data that are available so far. 
 
 
 
